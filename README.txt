@@ -1,5 +1,5 @@
  
- Task 7: 
+Task 7: 
 
  Monitor System Resources Using Netdata
 
